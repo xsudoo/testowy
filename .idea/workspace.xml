@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="949a94cf-a555-4d04-a44f-6ea1be42169e" name="Default Changelist" comment="" />
+    <list default="true" id="949a94cf-a555-4d04-a44f-6ea1be42169e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573071074525</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dodanie nowej linijki sout">
+      <created>1573072573066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573072573066</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dodanie nowej linijki sout">
+      <created>1573072586944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573072586944</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,7 +112,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -104,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dodanie pierszego pliku" />
     <MESSAGE value="Dodanie calosci" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dodanie calosci" />
+    <MESSAGE value="Dodanie nowej linijki sout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodanie nowej linijki sout" />
   </component>
 </project>
